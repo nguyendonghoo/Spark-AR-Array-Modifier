@@ -47,7 +47,7 @@ Next, create Inputs, Outputs in Spark AR Studio.
     <li>Write me on Telegram to give me any feedback.</li>
 
 
-References
+<h2>References</h2>
 1. Spark AR Documents. https://sparkar.facebook.com/ar-studio/learn/patch-editor/bridging#methods
 2. Spark AR Documents. https://sparkar.facebook.com/ar-studio/learn/reference/classes/ReactiveModule#example
 3. Wikipedia Ellipse. https://en.wikipedia.org/wiki/Ellipse
