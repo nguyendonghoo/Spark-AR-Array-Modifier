@@ -4,21 +4,23 @@
 Spark AR Scripting
 Array Modifier
 
-1. Knowledge requirements
-2. Preparation steps
-3. Position types and position steps
-4. Scale steps
-5. Rotation steps
-6. Array Modifier for Spark AR Version 1.0
-some explain…
-7. Script to Patch Bridging
-Some useful methods I'm using in this script:
-<code>getBoolean()</code> and <code>setBoolean()</code>
-getString() and setString()
-getScalar() and setScalar()
-getPoint2D() and setPoint2D()
-getVector() and setVector()
-Find all method at Spark AR Documents.
+    <h1>1. Knowledge requirements</h1>
+    <h1>2. Preparation steps</h1>
+    <h1>3. Position types and position steps</h1>
+    <h1>4. Scale steps</h1>
+    <h1>5. Rotation steps</h1>
+    <h1>6. Array Modifier for Spark AR Version 1.0</h1>
+      <p>some explain…</p>
+    <h1>7. Script to Patch Bridging</h1>
+    <p>Some useful methods I'm using in this script:</p>
+      <ul>
+        <ol><code>getBoolean()</code> and <code>setBoolean()</code></ol>
+        <ol><code>getString()</code> and <code>setString()</code></ol>
+        <ol><code>getScalar()</code> and <code>setScalar()</code></ol>
+        <ol><code>getPoint2D()</code> and <code>setPoint2D()</code></ol>
+        <ol><code>getVector()</code> and <code>setVector()</code></ol>
+      </ul>
+    <p>Find all method at Spark AR Documents.</p>
 
 Next, create Inputs, Outputs in Spark AR Studio.
 
