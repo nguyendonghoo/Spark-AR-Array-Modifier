@@ -4,27 +4,27 @@
 Spark AR Scripting
 Array Modifier
     
-<h1>1. Knowledge requirements</h1>
+<h2>1. Knowledge requirements</h2>
     
-<h1>2. Preparation steps</h1>
+<h2>2. Preparation steps</h2>
     
-<h1>3. Position types and position steps</h1>
+<h2>3. Position types and position steps</h2>
     
-<h1>4. Scale steps</h1>
+<h2>4. Scale steps</h2>
     
-<h1>5. Rotation steps</h1>
+<h2>5. Rotation steps</h2>
     
-<h1>6. Array Modifier for Spark AR Version 1.0</h1>
+<h2>6. Array Modifier for Spark AR Version 1.0</h2>
 some explain…
     
-<h1>7. Script to Patch Bridging</h1>
+<h2>7. Script to Patch Bridging</h2>
 Some useful methods I'm using in this script:
 <ul>
-<ol><code>getBoolean()</code> and <code>setBoolean()</code></ol>
-<ol><code>getString()</code> and <code>setString()</code></ol>
-<ol><code>getScalar()</code> and <code>setScalar()</code></ol>
-<ol><code>getPoint2D()</code> and <code>setPoint2D()</code></ol>
-<ol><code>getVector()</code> and <code>setVector()</code></ol>
+<li><code>getBoolean()</code> and <code>setBoolean()</code></li>
+<li><code>getString()</code> and <code>setString()</code></li>
+<li><code>getScalar()</code> and <code>setScalar()</code></li>
+<li><code>getPoint2D()</code> and <code>setPoint2D()</code></li>
+<li><code>getVector()</code> and <code>setVector()</code></li>
 </ul>
 Find all method at Spark AR Documents.
 
