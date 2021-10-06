@@ -36,6 +36,7 @@ Find all method at Spark AR Documents.
 
 Next, create Inputs, Outputs in Spark AR Studio.
 
+![Array-modifier-patch](https://user-images.githubusercontent.com/60598573/136179864-fc0a50dc-3f58-415e-8bca-10ed9a1c0b78.png)
 
 
 
