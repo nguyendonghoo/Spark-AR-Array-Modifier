@@ -48,9 +48,11 @@ Next, create Inputs, Outputs in Spark AR Studio.
 
 
 <h2>References</h2>
-1. Spark AR Documents. https://sparkar.facebook.com/ar-studio/learn/patch-editor/bridging#methods
-2. Spark AR Documents. https://sparkar.facebook.com/ar-studio/learn/reference/classes/ReactiveModule#example
-3. Wikipedia Ellipse. https://en.wikipedia.org/wiki/Ellipse
-4. Blender Array Modifier. https://docs.blender.org/manual/en/2.93/modeling/modifiers/generate/array.html
-  </body>
+<li>1. Spark AR Documents. https://sparkar.facebook.com/ar-studio/learn/patch-editor/bridging#methods</li>
+<li>2. Spark AR Documents. https://sparkar.facebook.com/ar-studio/learn/reference/classes/ReactiveModule#example</li>
+<li>3. Wikipedia Ellipse. https://en.wikipedia.org/wiki/Ellipse</li>
+<li>4. Blender Array Modifier. https://docs.blender.org/manual/en/2.93/modeling/modifiers/generate/array.html</li>
+
+  
+</body>
 </html>
